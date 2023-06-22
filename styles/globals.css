@@ -25,3 +25,36 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.section1{
+  background: #f2cdf1;
+}
+
+.section2{
+  background: #90adcd;
+}
+.section3{
+  background: #f2cdf1;
+}
+.section4{
+  background: #90adcd;
+}
+.section5{
+  background: #b9c7d2;
+  color: #0d3a5c;
+}
+
+.section6{
+  background: #ffffff;
+  color: #506b5d;
+}
+
+.section7{
+  background: #a1b391;
+}
+.section8{
+  background: #f2cdf1;
+  color: #851a3d;
+}
+.section9{
+  background: #4984ae;
+}
